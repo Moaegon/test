@@ -101,7 +101,7 @@ class Board extends Component {
 		return(
 			<div>
 				<div className='navro'><NavHeader NavLinks={NavLinks} /></div>	
-				<Link to="/Standard/Evolution/Science">Evolution</Link>
+				<Link to="/Standard/Evolution/Science">Evolution test</Link>
 				<div className='boardMain'>
 									
 					 <div className='showCase'>{this.grabType()}</div>
